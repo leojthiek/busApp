@@ -1,0 +1,21 @@
+.navbarMain{
+    background-color:  rgb(34, 43, 69);
+    color: white;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.NavbarBtn{
+    background-color: rgb(32, 29, 29);
+    color: white;
+}
+.NavbarBtnContainer{
+    padding-right: 100px;
+}
+.iconName{
+    font-size: 1.50rem;
+    font-family: 'sans-serif';
+    font-weight: 600;
+    padding-left: 100px;
+}

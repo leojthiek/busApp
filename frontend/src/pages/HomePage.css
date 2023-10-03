@@ -1,0 +1,23 @@
+.formItem{
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+    gap: 30px;
+}
+.homeSecondTitle{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1.90rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+.select{
+    width: 20rem;
+}
+.formMain{
+    background-color: rgb(34, 43, 69);
+    height: auto;
+    padding-bottom: 50px;
+}
